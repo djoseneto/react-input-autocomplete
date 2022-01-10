@@ -1,3 +1,5 @@
+A ideia do app é um AutoComplete com react, usando Hooks e Axios.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
